@@ -32,3 +32,4 @@ try {
 } catch (err) {
   console.error('Snoopy: break overlay init failed', err);
 }
+
